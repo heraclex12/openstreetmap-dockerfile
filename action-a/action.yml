@@ -1,0 +1,11 @@
+name: "Openstreetmap Actions"
+description: "Run openstreetmap-website"
+author: "heraclex12@gmail.com"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "mic"
+  color: "purple"
